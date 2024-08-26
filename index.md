@@ -1,4 +1,4 @@
-#Ananya Jajoo's First CS193 Homework
+# Ananya Jajoo's First CS193 Homework
 - I love this class because its fun
 - Fun to meet people
 
